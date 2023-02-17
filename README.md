@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a junior at the University of California, Berkeley studying Data Science (on hard mode) while exploring the intersection of music and machine learning in my research and working on a top-secret startup.
+- 😄 Pronouns: he/him/his
+- 🔭 I’m currently working on using neural-networks to emulate analog musical effects using [Magenta](https://magenta.tensorflow.org/).
+- 🌱 I’m currently learning digital signal processing and `how to survive existing at uc berkeley`
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/arhanv/)!

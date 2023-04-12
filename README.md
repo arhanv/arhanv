@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 I'm a junior at the University of California, Berkeley studying Data Science (on hard mode) while exploring the intersection of music and machine learning in my research and working on a top-secret startup.
 - Check out my [Creative Portfolio](https://www.arhan.io)!
 - 😄 Pronouns: he/him/his
-- 🔭 I’m currently working on using neural-networks to emulate analog musical effects using [Magenta](https://magenta.tensorflow.org/).
+- 🔭 I’m currently working on [Glissando](https://www.github.com/arhanv/glissando).
 - 🌱 I’m currently learning digital signal processing and `how to simply survive uc berkeley`
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/arhanv/)!

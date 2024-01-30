@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a junior at the University of California, Berkeley studying Data Science (on hard mode) while exploring the intersection of music and machine learning in my research and working on a top-secret startup.
+I'm a junior at the University of California, Berkeley studying Data Science.
 - Check out my [Creative Portfolio](https://www.arhan.io)!
 - 😄 Pronouns: he/him/his
 - 🔭 I’m currently working on [Glissando](https://www.github.com/arhanv/glissando).

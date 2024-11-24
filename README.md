@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a junior at the University of California, Berkeley studying Data Science.
-- Check out my [Creative Portfolio](https://www.arhan.io)!
-- 😄 Pronouns: he/him/his
-- 🔭 I’m currently working on [Glissando](https://www.github.com/arhanv/glissando).
-- 🌱 I’m currently learning digital signal processing and `how to simply survive uc berkeley`
-- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/arhanv/)!
+Currently: MSc in Sound and Music Computing, [Music Technology Group](https://www.upf.edu/web/mtg) at UPF, Barcelona
+Previously: Bachelor's in Data Science, UC Berkeley
+📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/arhanv/)!

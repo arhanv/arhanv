@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently: MSc in Sound and Music Computing, [Music Technology Group](https://www.upf.edu/web/mtg) at UPF, Barcelona
-Previously: Bachelor's in Data Science, UC Berkeley
+I'm currently pursuing an MSc in Sound and Music Computing at the [Music Technology Group](https://www.upf.edu/web/mtg) in Barcelona.
+
+Previously, I graduated with a BA in Data Science from UC Berkeley (Go Bears!)
+
 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/arhanv/)!

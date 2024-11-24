@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I'm currently pursuing an MSc in Sound and Music Computing at the [Music Technology Group](https://www.upf.edu/web/mtg) in Barcelona.
 
-Previously, I graduated with a BA in Data Science from UC Berkeley (Go Bears!)
+Previously, I graduated with a BA in Data Science from [UC Berkeley](https://cdss.berkeley.edu/) (Go Bears!)
 
 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/arhanv/)!
